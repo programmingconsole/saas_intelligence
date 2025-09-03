@@ -38,7 +38,7 @@ st.markdown(
     """
     <div style="position: fixed; bottom: 0; width: 100%; text-align: center; 
                 padding: 10px; background-color: dark grey; color: white; font-size: 14px;">
-    <a href="https://eduland.pythonanywhere.com/" style="color: white; text-decoration: none;">© 2025 SaasCodes.</a>
+    <a href="https://eduland.pythonanywhere.com/" style="color: white; text-decoration: none;">© 2025 SaasCodes</a>
     </div>
     """,
     unsafe_allow_html=True
