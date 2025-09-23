@@ -2,7 +2,7 @@ import streamlit as st
 from ai_utils import generate_summary, generate_questions, chat_with_ai
 
 st.set_page_config(page_title="AI Summary & QnA & Chat", layout="centered")
-st.title("📘 AI Summary, QnA Generator & Continuous Chat 🤖")
+st.title("Welcome to SaaS intelligence ✨ ")
 
 # -----------------------------
 # Text Input Section
